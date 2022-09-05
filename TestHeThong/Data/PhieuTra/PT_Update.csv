@@ -1,0 +1,4 @@
+﻿MaPhieu,MaDocGia,MaSach,NgayPhaiTra,expected,count
+1,5,10,2030-02-01 00:00:00.000,True,1
+15,2,5,2035-02-10 00:00:00.000,False,0
+,6,4,2040-10-01 00:00:00.000,False,0

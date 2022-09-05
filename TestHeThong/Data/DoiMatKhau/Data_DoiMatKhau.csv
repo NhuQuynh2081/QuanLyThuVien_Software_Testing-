@@ -1,0 +1,9 @@
+﻿TDN,mk_cu,mk_moi,mk_nl,expectedMKC,expectedMKM
+Pis,123456,123,123,True,True
+Chika,123456,456,456,True,True
+ChipChip,123456,123456,123456,True,True
+NTNQ,999,88888,88888,False,False
+HLNQ,,88888,88888,False,False
+PisSiP,123456,88888,88888,False,False
+,123456,88888,88888,False,False
+PisSiP,9999,88888,88888,False,False

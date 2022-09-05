@@ -1,0 +1,151 @@
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\TestHeThong.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\TestHeThong.pdb
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\QuanLyThuVien.exe
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Utils.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraBars.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Data.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\QuanLyThuVien.pdb
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\QuanLyThuVien.exe.config
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Utils.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraBars.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Data.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.csproj.AssemblyReference.cache
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.csproj.CoreCompileInputs.cache
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.csproj.CopyComplete
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.dll
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.pdb
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\TestHeThong.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\TestHeThong.pdb
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Utils.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraBars.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Data.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\TestHeThong\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Utils.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraBars.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Data.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+D:\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.csproj.CopyComplete
+D:\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.dll
+D:\QuanLyThuVien\TestHeThong\obj\Debug\TestHeThong.pdb
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuMuon\PM_Delete.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuMuon\PM_Insert.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuMuon\PM_InsertNullError.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuMuon\PM_Search.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuMuon\PM_Update.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuTra\PT_Delete.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuTra\PT_Insert.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuTra\PT_InsertNullError.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuTra\PT_Update.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\DoiThongTin\Data_DoiThongTin.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\PhieuTra\PT_Search.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\Sach\Sach_Delete.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\Sach\Sach_Insert.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\Sach\Sach_Update.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\TimKiemSach\TimSach.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\DangKy\SignUp_Data.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\DangNhap\Login_Data.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\ThongKe\Finding_PM_data.csv
+D:\QuanLyThuVien\TestHeThong\bin\Debug\Data\ThongKe\Finding_PT_data.csv

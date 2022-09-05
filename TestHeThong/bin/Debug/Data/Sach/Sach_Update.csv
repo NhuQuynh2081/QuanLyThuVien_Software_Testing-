@@ -1,0 +1,5 @@
+﻿MaSach,TenSach,TacGia,TheLoai,NhaXuatBan,GiaSach,SoLuong,expected,count
+20,sách thứ nhất,Nguyễn Thị Mai Trang,Lập trình,HCMCOU,3000,5,True,1
+15,sách thứ hai,Nguyễn Thị Thủy,Quản trị,HCMCOU,4000,0,True,1
+100,sách thứ ba, tác giả, không có, nxb, 100000, 2, False,0
+,sách thứ tư,Lê Hồng Thái,Lập trình,HCMCOU,3000,5,False,0

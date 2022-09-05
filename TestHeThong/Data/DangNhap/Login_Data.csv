@@ -1,0 +1,7 @@
+﻿tk,mk,mongdoi
+admin,123,TRUE
+admin,,FALSE
+,123,FALSE
+admin,12345,FALSE
+a,123,FALSE
+a,0,FALSE
